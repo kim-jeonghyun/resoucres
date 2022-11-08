@@ -1,0 +1,2 @@
+opencv-python==4.6.0 # to download main-modules
+# opencv-contrib-python #to download full package
