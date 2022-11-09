@@ -5,6 +5,20 @@
 - os : MacOS v12.6
 - Python v.3.9.12
 
+
+## Tree
+.
+├── README.md
+├── python
+│   ├── python_packages
+│   └── useful_functions
+├── shell scripts
+│   ├── db
+│   ├── examples
+│   └──  ffmpeg
+└── tree.txt
+
+
 ## python packages
 유용한 파이썬 패키지 예제
 
